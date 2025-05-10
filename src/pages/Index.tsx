@@ -60,7 +60,7 @@ const Index = () => {
           Gilani Motors Logo Presentation &copy; {new Date().getFullYear()}
         </p>
         <p className="text-gray-500 dark:text-gray-500 mt-2 text-sm">
-          Created by Rod Rakic
+          Design by eSamurai eCommerce Service
         </p>
       </footer>
     </div>
